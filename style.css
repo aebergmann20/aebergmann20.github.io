@@ -1,0 +1,63 @@
+body {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 200;
+  background-color: #44008b;
+  background-repeat: repeat;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 1.1;
+    color: grey;
+}
+h4 {
+  color: #819FF7;
+}
+.container {
+  color: grey;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12px;
+  width: 100%;
+  margin-top: 30px;
+}
+#whistler {
+  font-size: 25px;
+  color: white;
+  padding-right: 30px;
+  margin-top: 80px;
+}
+.jumbotron {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.active {
+  color: red;
+  font-size: 20px;
+  font-family:'Nunito', sans-serif;
+}
+.sr-only{
+  color: red;
+  font-size: 20px;
+  font-family:'Nunito', sans-serif;
+}
+#ski {
+  color: #819FF7;
+  font-size: 50px;
+  font-family: 'Libre Baskerville', serif;
+}
+#apres {
+  color: #FA8258;
+  font-size: 50px;
+  font-family: 'Libre Baskerville', serif;
+}
+#party {
+  color: #FE2E64;
+  font-size: 50px;
+  font-family: 'Libre Baskerville', serif;
+}
